@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\Rafael\Java Workspaces\alura-springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\141730439.index
+\gerenciador\src\main\java
+C:\Users\Rafael\Java Workspaces\alura-springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2656876495.index
+\gerenciador\src
+C:\Users\Rafael\Java Workspaces\alura-springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1532149616.index
+\gerenciador\src
